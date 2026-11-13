@@ -1,1 +1,0 @@
-ALTER TABLE "teacher_settings" ADD COLUMN "prayer_timetable" jsonb DEFAULT '{}'::jsonb NOT NULL;
